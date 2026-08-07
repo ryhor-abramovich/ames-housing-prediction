@@ -12,8 +12,7 @@ By leveraging domain-driven feature engineering, skewness correction, 10-Fold St
 
 ---
 
-🏆 Kaggle Result: Top 20% — 751 / 3,947 participants
-RMSLE: 0.12286
+🏆 Kaggle Result: Top 20% · Best RMSLE: 0.12286
 
 ---
 
