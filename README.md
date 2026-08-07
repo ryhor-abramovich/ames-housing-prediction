@@ -6,9 +6,16 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightgbm&logoColor=white)
 
-An end-to-end Machine Learning pipeline developed for the classic **Ames Housing - Advanced Regression Techniques** competition on Kaggle.
+An end-to-end machine learning pipeline for the **Ames Housing regression task** on Kaggle.
 
 By leveraging domain-driven feature engineering, skewness correction, 10-Fold Stratified Cross-Validation, and a weighted 4-model ensemble, this solution achieved a **Global Leaderboard Rank of 776 (Top 20%)** with an **RMSE score of ~0.1228**.
+
+---
+
+## 🏆 Result
+
+- **Kaggle ranking:** Top 20%
+- **RMSE:** 0.1228
 
 ---
 
