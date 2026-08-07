@@ -8,7 +8,7 @@
 
 An end-to-end machine learning pipeline for the **Ames Housing regression task** on Kaggle.
 
-By leveraging domain-driven feature engineering, skewness correction, 10-Fold Stratified Cross-Validation, and a weighted 4-model ensemble, this solution achieved a **Global Leaderboard Rank of 776 (Top 20%)** with an **RMSE score of ~0.1228**.
+By leveraging domain-driven feature engineering, skewness correction, 10-Fold Stratified Cross-Validation, and 4-model weighted ensemble (CatBoost 35%, LightGBM 25%, XGBoost 20%, Ridge 20%), this solution achieved a **Global Leaderboard Rank of 776 (Top 20%)** with an **RMSE score of ~0.1228**.
 
 ---
 
